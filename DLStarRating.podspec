@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name         = "DLStarRating"
-  s.version      = "1.1-ARC"
+  s.name         = "DLStarRatingARC"
+  s.version      = "1.1"
   s.summary      = "iOS star rating component."
   s.homepage     = "https://github.com/dlinsin/DLStarRating"
   s.license      = 'Eclipse Public License'
